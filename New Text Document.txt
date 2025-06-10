@@ -1,0 +1,7 @@
+qc-test-project/
+│
+├── main.py               # FastAPI server
+├── qc_logic.py           # Dummy HDR QC logic
+├── telegram_bot.py       # Telegram bot script
+├── requirements.txt      # Python dependencies
+└── README.md             # Instructions
