@@ -3,7 +3,7 @@ import uuid
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "7800921682:AAHZESvnObcLLFIIMgdwpEK4FTK5ZutLYVs"
+BOT_TOKEN = "AAHZESvnObcLLFIIMgdwpEK4FTK5ZutLYVs"
 QC_SERVER_URL = "https://qctel-test.onrender.com"  # Replace after deployment
 
 # Dummy whitelist
